@@ -8,3 +8,14 @@
 8. galaxia - https://dle.rae.es/galaxia?m=form
 9. nube - https://dle.rae.es/nube?m=form
 10. astronauta - https://dle.rae.es/astronauta?m=form
+Programación:https://dle.rae.es/programaci%C3%B3n 
+Universidad: https://dle.rae.es/universidad?m=form
+Clase: https://dle.rae.es/clase?m=form
+Internet: https://dle.rae.es/internet?m=form
+Compilar: https://dle.rae.es/compilar?m=form
+Ejecutar: https://dle.rae.es/ejecutar?m=form
+Fichero: https://dle.rae.es/fichero?m=form
+Directorio: https://dle.rae.es/directorio?m=form
+Terminal: https://dle.rae.es/terminal?m=form
+Practica: https://dle.rae.es/pr%C3%A1ctica?m=form
+
